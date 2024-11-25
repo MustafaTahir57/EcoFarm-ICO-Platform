@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 15" width="14" height="15">
+	<title>Header</title>
+	<style>
+		.s0 { fill: #bee41b } 
+	</style>
+	<g id="Header">
+		<g id="Group 1">
+			<path id="Navigation Forward 1" class="s0" d="m14 7.9l-1.2-1.2-4.9 5v-11.7h-1.8v11.7l-4.9-5-1.2 1.2 7 7.1z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23" width="23" height="23">
+	<title>Crowdsale</title>
+	<defs>
+		<image  width="23" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAAXNSR0IB2cksfwAABS9JREFUeJx9VVtoHFUY/ufMmcvO3rLJNrdGSUjsLRJLFYqt7UP1RRCt7YP0QSjWBxGkL6JChQq+9UF9qCioT9qioIJoiVBrWwh4wxDSYrf2kmbTpG023exlZnZ2rv7/2UvTpvaEJWfOnPn+7//O9/+Hn7g0CRIA+FEE55euw2+FPPQaKWASqAXH2mT53hPLdXtbBNFGVZJ1O/CKnZoxGZP5n14Y0G82pcSgHnhw067A/o1PwmhnH7hhABzuGZwxqHjOLgR8JV8t7nYDP84kCSIMHuF7mpcda5eE/zNqbAYk6XhWS3zuhf61VVgrHxTGJIx4KFe88abpe2ld5rgmN15Kd/bJzTkSGAoBDsmS/IIuy29h4PG7iSIDmZiFoTRx69qHF4o3DkqIhGkLpmEU3UuoPZjEgELfdqqPYmbfdKjGfsT6vg1edR1QZZmNz+UOTy5dP0hsMVWo+S4CI6//xxbZKIwDfeNDmDT9+mem75Y0Wfk1wA95rrgAN2rmM6fmLx7UZBmCKIC0GoMDo9sgqychegA6ZTi5mIcTM9OgcwVs3+08OXfhSL+RfhbjFrjKVeNiafE1NwjSBlehiowTig6vju6ALj3xANqNkdWn4LtLf4OG4DH8/Vu89fiZudxLo5neo7wW+o/NWqXnNZIDWRIb0nnRNsHgmmDOcI3ek0N8lAodJPbRML26WBdngGsRTvN2ad/aRMdxPmeWnkIbyYasCAEMRYWlmgmvnzkGccrEc2AwtQaObN8LPUYSzi5chvd+/wESGJgwl2sWJFVNhKLvY4iTry5v2ZjuGeNXK0u75BU+Q3kgibKUHRuWIlOs9RhuW3sfWZfrDlScGmYRgIZWDSMCDtF1TNQB2lmfs8o7OLJcp+BB0qcBprw+0wudehzmrRKm7EDd99E5PrSMHqBkJEsC9VUkGXrjKRhEx1wuLYLje9CydqFu9XFc0KkqG54OYQOWLs0xI2A4KddrUHRMWMBgtO9WrQJl1wZVikNc1RFIhs1rHoYFswQ26s+kRtGpTFZ5XNFNy3dEShxfjF+bhkfSPbC9b1hU500EizMFpm7PQ65cgCoGe3pgg8guieDz1jL8eGWKqhWDN4CJnB8GDu+KGecrFXsdR3Bo9pBzCDSNTYy8W0cJNmXXwvtDLwI2LDh5PQcfTP4itK6HHgRhKJzUAiZkctRIKjvDh5Ndp66UC3vahYEBDK40jw/1DX2oYBVbmDKB0xyLBRRFQ1AFGDaalYUW4p/GeGUgkTnLB5NdE7jJwmhxkqaVVqsCG3Kxtq/FgbGGKxr2uwNMz3V022AqM5FQ1At8OJ3Nbe0Z/BrL9kAHlv3qYo9ENqwZuEXgfoPchvv8nf0jX450dFt8bSLj7uwfPjpZyD9n+16P2tKujd1Im+QRPg+pmd2/31go11jnwM9bsgM/UV6cbow416bGugYO/bU4+zFG11bKQxVbtKvwxulj2DtUbK8m9h6tXfKtQQffF++4smd489t4M5l0M/EWGzzxLySJqcjzI3xWydMNGSTBenppXjiJ1rVmrxcH2CyqjB6/undo876kov1D++l9+yaiTQj0yfp0d2XWWn4X+/wGAUaHiQGo4905BRCBPCx/yrI/mR5fn+59B/v6tJCtOe665igApn7soXjmj0XZfBlvp93Lrj1GByULdzQ6Jv0YY7X+WMdEp258ldUT32LLtWnfyrHqghaMwuAyVt9hVWKfDiS7thXr5lbMpLvmuWpK06zuWCrfHUuerrq1cwmulklvVV4FBf8BphR35ioOuWMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<g id="Crowdsale">
+		<g id="Left Box">
+			<use id="Layer 24" href="#img1" x="0" y="0"/>
+		</g>
+	</g>
+</svg>
